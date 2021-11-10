@@ -1,4 +1,8 @@
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">AZKADEV || GIBRAN ALAZKA</h3>
+
+![](https://user-images.githubusercontent.com/38845275/128774296-40a55843-1893-44e6-936e-5e71c7cf72de.png)
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azkadev&label=Profile%20views&color=0e75b6&style=flat" alt="azkadev" /> </p>
 
