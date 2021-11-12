@@ -76,15 +76,6 @@ I'm Gibran Alazka, a freshman at THU.
 
 ---
 
-## Sosial Media
-
-[![Custom badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/azkadev/)
-[![Custom badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azkadev/)
-[![Custom badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azkadev/)
-[![Custom badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/azkadev)
-[![Custom badge](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://azkadev.com/)
-[![Custom badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azkadev)
-
 ## Thropy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=azkadev)](https://github.com/ryo-ma/github-profile-trophy)
