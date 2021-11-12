@@ -13,10 +13,11 @@
 [![Custom badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azkadev/)
 [![Custom badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/azkadev)
 [![Custom badge](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://azkadev.com/)
+[![Custom badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azkadev)
 
 ## Thropy
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azkadev" alt="azkadev" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=azkadev)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/azkadev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="azkadev" /></a></p><br>
@@ -26,4 +27,9 @@
 <br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azkadev&show_icons=true&locale=en&layout=compact" alt="azkadev" /></p>
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=azkadev&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkadev&layout=compact" />
+</div>
