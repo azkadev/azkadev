@@ -60,16 +60,15 @@ I'm Gibran Alazka, a freshman at THU.
 <br>
 <br>
 <!-- Social badges section -->
-<p align="left">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+<a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCj9stNGVvQJspYMp8-lG_ng?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/DevProTips">
+<a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCj9stNGVvQJspYMp8-lG_ng?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://github.com/azkadev?tab=repositories&sort=stargazers">
+<a href="https://github.com/azkadev?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/azkadev"/></a>
-  <a href="https://github.com/azkadev?tab=followers">
+<a href="https://github.com/azkadev?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/azkadev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+
 
 ---
 
