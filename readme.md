@@ -47,6 +47,17 @@ I'm Gibran Alazka, a freshman at THU.
 
 <br>
 
+[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkadev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook">](https://metrics.lecoq.io/ouuan?template=classic)
+
+I'm Gibran Alazka, a freshman at THU.
+
+-   :hammer_and_pick: Javascript / Dart / C++
+-   :pencil2: Ubuntu
+-   :seedling: Taking courses & doing assignments at THU
+-   :man: Pronouns: he/him
+
+<br>
+
 <!-- Social badges section -->
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
@@ -93,9 +104,5 @@ I'm Gibran Alazka, a freshman at THU.
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkadev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkadev&layout=compact" />
-</div>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azkadev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azkadev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
