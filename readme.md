@@ -60,12 +60,9 @@ I'm Gibran Alazka, a freshman at THU.
 <br>
 <br>
 
-
 <h3 align="center">
-  My Social Media
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
 
 ![Subscriber](https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCj9stNGVvQJspYMp8-lG_ng?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)
 ![](https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCj9stNGVvQJspYMp8-lG_ng?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600)
