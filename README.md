@@ -82,6 +82,7 @@ I'm Gibran Alazka, a freshman at THU.
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [hello world test auto post github](https://dev.to/azkadev/hello-world-test-auto-post-github-3fdb)
 <!-- BLOG-POST-LIST:END -->
 
 ## Thropy
