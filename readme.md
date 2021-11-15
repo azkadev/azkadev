@@ -75,6 +75,14 @@ I'm Gibran Alazka, a freshman at THU.
 [![Custom badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azkadev)
 
 ---
+### RECENT DEVDOJO POST
+
+<!-- DEVDOJO:START -->
+<!-- DEVDOJO:END -->
+
+### RECENT DEV.TO POST
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Thropy
 
