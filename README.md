@@ -73,7 +73,7 @@ I'm Gibran Alazka, a freshman at THU.
 [![Custom badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/azkadev)
 [![Custom badge](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://azkadev.com/)
 [![Custom badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azkadev)
-[![Custom badge](https://img.shields.io/badge/devto-100000?style=for-the-badge&logo=devto&logoColor=white)](https://dev.to/azkadev)
+[![Custom badge](https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/azkadev)
 [![Custom badge](https://img.shields.io/badge/devdojo-100000?style=for-the-badge&logo=devdojo&logoColor=white)](https://devdojo.com/azkadev)
 ---
 
