@@ -1,0 +1,18 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every day
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dev.to/feed/azkadev"
+          commit_message: "Update dev.to blog posts"
+          gh_token: ${{ secrets.TOKEN }}
