@@ -44,8 +44,13 @@ I'm Gibran Alazka, a freshman at THU.
 :page_with_curl: My Skilss:
 <br><br>
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 <br>
 
@@ -96,7 +101,7 @@ Here are some of my demo projects to convince you
 
   no demo for bot but i can make,
   chatbot, bank bot, etc, on social media such as telegram, whatsapp, instagram
-  
+
 - Backend
 
   here is a demo and open source backend using node js, the demo is not full there is crud for fear of being misused, [repo](https://github.com/azkadev/free-api-dev)
