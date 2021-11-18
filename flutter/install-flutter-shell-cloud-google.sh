@@ -3,8 +3,7 @@
 sudo apt install openjdk-8-jre
 sudo apt install openjdk-8-jdk
 
-mkdir "$HOME/Android" && mkdir "$HOME/Android/Sdk"
-cd "$HOME/Android/Sdk"
+mkdir "$HOME/Android" && mkdir "$HOME/Android/Sdk" && cd "$HOME/Android/Sdk"
 
 wget https://dl.google.com/android/repository/commandlinetools-linux-7583922_latest.zip
 unzip commandlinetools* && cd cmdline-tools && mkdir latest && mv * latest/
