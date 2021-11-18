@@ -56,9 +56,8 @@ I'm Gibran Alazka, a freshman at THU.
 -   :seedling: Taking courses & doing assignments at THU
 -   :man: Pronouns: he/him
 
-<br>
-<br>
-<br>
+
+---
 
 <h3 align="center">
   My Social Media
@@ -77,6 +76,14 @@ I'm Gibran Alazka, a freshman at THU.
 [![Custom badge](https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/azkadev)
 [![Custom badge](https://img.shields.io/badge/devdojo-100000?style=for-the-badge&logo=devdojo&logoColor=white)](https://devdojo.com/azkadev)
 ---
+
+<h3 align="center">
+  Want hire me?
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+Here are some of my demo projects to convince you
+
 
 ### RECENT DEVDOJO POST
 
