@@ -88,11 +88,13 @@ I'm Gibran Alazka, a freshman at THU.
 
 Here are some of my demo projects to convince you
 
-- Mobile-Application
-  Mobile-Application build with backend node js and flutter [download app](https://github.com/azkadev)
+- Application
+  Mobile-Application build with backend node js and flutter [mobile-demo-app-android](https://github.com/azkadev) [desktop-demo-app-linux](https://github.com/assets/demo)
 - Bot
-  bot build with node-js and with localdatabase
-  [demo-bot-telegram](https://github.com/azkadev/assets/demo), [demo-bot-whatsapp](https://github.com/azkadev/assets/demo), [demo-bot-instagram](https://github.com/azkadev/assets/demo)
+  no demo for bot but i can make,
+  chatbot, bank bot, etc, on social media such as telegram, whatsapp, instagram
+- Backend
+  here is a demo and open source backend using node js, the demo is not full there is crud for fear of being misused, [repo](https://github.com/azkadev/free-api-dev)
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
