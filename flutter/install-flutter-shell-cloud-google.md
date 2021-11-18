@@ -24,11 +24,7 @@
     export ANDROID_SDK="$HOME/Android/Sdk"
     export ANDROID_SDK_ROOT="$HOME/Android/Sdk"
     export ANDROID_HOME="$HOME/Android/Sdk"
-    export PATH="$ANDROID_HOME/cmdline-tools/latest/bin/:$PATH"
-    export PATH="$ANDROID_HOME/cmdline-tools/latest/:$PATH"
-    export PATH="$ANDROID_HOME/emulator/:$PATH"
-    export PATH="$ANDROID_HOME/platform-tools/:$PATH"
-    export PATH="$ANDROID_SDK:$PATH"
+    export PATH="$ANDROID_SDK:$ANDROID_HOME/platform-tools/:$ANDROID_HOME/emulator/:$ANDROID_HOME/cmdline-tools/latest/:$ANDROID_HOME/cmdline-tools/latest/bin/:$PATH"
     ```
 - sdkmanager
     -   run sdkmanager first
