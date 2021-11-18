@@ -62,3 +62,16 @@
     ```bash
     flutter doctor
     ```
+- make app first in flutter
+    run in terminal replace example for your app name
+    ```bash
+    flutter create example
+    ```
+    - build release for android
+    ```bash
+    cd example && flutter build apk --release
+    ```
+    if after run command result output like this, you succes build android and you can download file and test on your smartphone
+    ```bash
+    ✓  Built build/app/outputs/flutter-apk/app-release.apk (15.5MB).
+    ```
