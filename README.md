@@ -86,6 +86,11 @@ I'm Gibran Alazka, a freshman at THU.
 
 Here are some of my demo projects to convince you
 
+- Mobile-Application
+  Mobile-Application build with backend node js and flutter [download app](https://github.com/azkadev)
+- Bot
+  bot build with node-js and with localdatabase
+  [demo-bot-telegram](https://github.com/azkadev/assets/demo), [demo-bot-whatsapp](https://github.com/azkadev/assets/demo), [demo-bot-instagram](https://github.com/azkadev/assets/demo)
 
 ### RECENT DEVDOJO POST
 
