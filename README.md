@@ -94,11 +94,6 @@ Here are some of my demo projects to convince you
   bot build with node-js and with localdatabase
   [demo-bot-telegram](https://github.com/azkadev/assets/demo), [demo-bot-whatsapp](https://github.com/azkadev/assets/demo), [demo-bot-instagram](https://github.com/azkadev/assets/demo)
 
-### RECENT DEVDOJO POST
-
-<!-- DEVDOJO:START -->
-<!-- DEVDOJO:END -->
-
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
 - [how to install flutter on google cloud shell service along with app build](https://dev.to/azkadev/how-to-install-flutter-on-google-cloud-shell-service-along-with-app-build-5eii)
