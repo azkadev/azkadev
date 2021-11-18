@@ -44,12 +44,15 @@ first open [shell-cloud-google](https://shell.cloud.google.com/) on your browser
     ```bash
     sdkmanager "platforms;android-30"
     ```
-    ``` bash
+    - Install platforms tools
+    ```bash
     sdkmanager "platform-tools"
     ```
+    - Install patcher
     ```bash
     sdkmanager "patcher;v4"
     ```
+    - Install build tools
     ```bash
     sdkmanager "build-tools;30.0.2"
     ```
