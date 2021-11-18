@@ -39,6 +39,8 @@ I'm Gibran Alazka, a freshman at THU.
 -   :seedling: Taking courses & doing assignments at THU
 -   :man: Pronouns: he/him
 
+---
+
 :page_with_curl: My Skilss:
 <br><br>
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
