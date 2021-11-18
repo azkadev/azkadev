@@ -1,13 +1,22 @@
-# Install flutter without android studio on shell cloud google Azkadev
+# how to install flutter on google cloud shell service along with app build
 
 
-## Steps
+## what is flutter?
+Flutter is an open source mobile application framework created by Google. Flutter is used in application development for Android, iOS, Windows, Linux, MacOS operating systems, as well as being the main method for creating Google Fuchsia applications.
+
+## what is shell cloud google?
+
+Google Cloud Shell is an online bash shell based on Debian. The free tier includes 1.7 gigabytes of random-access memory and a persistent 5 gigabyte home directory. Except for the home and root directories, the Cloud Shell environment is volatile. The editor in Google Cloud Shell is based on Eclipse Theia.
+
+### Steps
+first open [shell-cloud-google](https://shell.cloud.google.com/) on your browser, and open terminal and do the steps below.
 
 - Make folder android sdk
     ```bash
     mkdir "$HOME/Android" && mkdir "$HOME/Android/Sdk" && cd "$HOME/Android/Sdk"
     ```
 - download cmd line
+    replace url with [cmdline-latest](https://developer.android.com/studio#command-tools)
     ```bash
     wget https://dl.google.com/android/repository/commandlinetools-linux-7583922_latest.zip
     ```
@@ -75,3 +84,8 @@
     ```bash
     ✓  Built build/app/outputs/flutter-apk/app-release.apk (15.5MB).
     ```
+
+
+if you like this post please do as below, (I'm not forcing: V)
+
+Follow my [github](https://github.com/azkadev) account:V
