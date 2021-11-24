@@ -47,13 +47,12 @@ I'm Gibran Alazka, a freshman at THU.
   <img src="https://img.shields.io/badge/intel-Potato :(-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/SSD-1TB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logo=ram&logoColor=white" />
-  <!--
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-  -->
+  <img src="https://img.shields.io/badge/nvidia-Soon :( im poor-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-:page_with_curl: My Stack:
-<br><br>
+<p align='center'>
+ My Skilss Stack(OVERFLOW) :D <br/><br/>
+
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
@@ -64,6 +63,7 @@ I'm Gibran Alazka, a freshman at THU.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
+</p>
 <br>
 
 [<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkadev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook">](https://metrics.lecoq.io/ouuan?template=classic)
