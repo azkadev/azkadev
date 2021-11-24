@@ -41,7 +41,18 @@ I'm Gibran Alazka, a freshman at THU.
 
 ---
 
-:page_with_curl: My Skilss:
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-Potato :(-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSD-1TB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logo=ram&logoColor=white" />
+  <!--
+  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  -->
+</p>
+
+:page_with_curl: My Stack:
 <br><br>
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
