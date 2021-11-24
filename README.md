@@ -116,11 +116,11 @@ Here are some of my demo projects to convince you
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=azkadev)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/azkadev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="azkadev" /></a></p><br>
+## Funding
 
-[![Github-sponsors-Badge](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://www.paypal.com/paypalme/azkadev)
+Support saya untuk mengembangkan project saya yang di github / menyemangatin saya dalam koding.
 [![Paypal-Badge](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/azkadev)
+[Saweria](https://saweria.co/azkadev)
 <br>
 
 
