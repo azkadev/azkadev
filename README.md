@@ -51,7 +51,7 @@ I'm Gibran Alazka, a freshman at THU.
 </p>
 
 <p align='center'>
- My Skilss Stack(OVERFLOW) :D <br/><br/>
+ My Skilss Stack(OVERFLOW) :D <br/>
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
