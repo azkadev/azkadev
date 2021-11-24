@@ -45,7 +45,7 @@ I'm Gibran Alazka, a freshman at THU.
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/Acer-%23000000.svg?&style=for-the-badge&logo=acer&logoColor=white"/><img src="https://img.shields.io/badge/Linux%20Ubuntu-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/intel-Potato :(-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /><img src="https://img.shields.io/badge/nvidia-Soon :( im poor-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSD-1TB-%230071C5.svg?&style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logo=ram&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSD-1TB-%230071C5.svg?&style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logo=rm&logoColor=white" />
 </p>
 
 <p align='center'>
