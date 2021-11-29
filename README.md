@@ -175,5 +175,6 @@ Support saya untuk mengembangkan project saya yang di github / menyemangatin say
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 
 <!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
+[![Crypto Wallet Application Mobile Flutter Quick preview design](https://freshidea.com/jonah/app/youtube-card/?id=GRv8m2EQGXk)](https://www.youtube.com/watch?v=GRv8m2EQGXk "Crypto Wallet Application Mobile Flutter Quick preview design")
+[![Speed Mining Verus Coin pc cpu only #verus #veruscoin #mining](https://freshidea.com/jonah/app/youtube-card/?id=XVUC3I8n7_4)](https://www.youtube.com/watch?v=XVUC3I8n7_4 "Speed Mining Verus Coin pc cpu only #verus #veruscoin #mining")
+[![Simple Wallet Application Flutter #flutter #application #wallet](https://freshidea.com/jonah/app/youtube-card/?id=4_Dl9M0Zx_I)](https://www.youtube.com/watch?v=4_Dl9M0Zx_I "Simple Wallet Application Flutter #flutter #application #wallet")<!-- YOUTUBE:END -->
