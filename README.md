@@ -163,7 +163,4 @@ Support saya untuk mengembangkan project saya yang di github / menyemangatin say
 
 # My App 
 
-![](https://github.com/azkadev/azkadev/blob/main/flutter/crypto_wallet/1.png)
-![](https://github.com/azkadev/azkadev/blob/main/flutter/crypto_wallet/2.png)
-![](https://github.com/azkadev/azkadev/blob/main/flutter/crypto_wallet/3.png)
-![](https://github.com/azkadev/azkadev/blob/main/flutter/crypto_wallet/4.png)
+![](https://github.com/azkadev/azkadev/blob/main/flutter/crypto_wallet/crypto_wallet.png)
