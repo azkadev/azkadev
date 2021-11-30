@@ -169,6 +169,14 @@ Support saya untuk mengembangkan project saya yang di github / menyemangatin say
 
 </details>
 
+<details>
+  <summary>Nft Simple APP</summary>
+  
+![](https://github.com/azkadev/azkadev/blob/main/flutter/nft_simple_app/1.png)
+![](https://github.com/azkadev/azkadev/blob/main/flutter/nft_simple_app/2.png)
+
+</details>
+
 ## 📺 Latest YouTube videos
 
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
