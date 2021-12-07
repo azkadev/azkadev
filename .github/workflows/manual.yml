@@ -1,0 +1,53 @@
+name: Manual workflow
+on: [push]
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: send telegram message on push
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.CHAT_ID }}
+          token: ${{ secrets.TOKEN_BOT }}
+          format: markdown
+          message: |
+            ${{ github.actor }} created commit:
+
+            [Repository](https://github.com/${{ github.repository }})
+            
+            See changes: https://github.com/${{ github.repository }}/commit/${{github.sha}}
+      - name: Install Depends
+        run: sudo apt-get install -y make git zlib1g-dev libssl-dev gperf cmake clang libc++-dev libc++abi-dev
+      - name: Run Procces Build
+        run: |
+          export NDK="$(pwd)/../ndk"
+          export HOST_TAG="linux-x86_64"
+          export HOST_ARCH="linux-x86_64"
+          export TOOLCHAIN="$NDK/toolchains/llvm/prebuilt/linux-x86_64"
+          export TARGET="aarch64-linux-android"
+          export ANDROID_TOOLCHAIN="$NDK/toolchains/llvm/prebuilt/linux-x86_64"
+          export ANDROID_TARGET="aarch64-linux-android"
+          export API="29"
+          export ANDROID_API="29"
+          export ANDROID_AR="$TOOLCHAIN/bin/llvm-ar"
+          export ANDROID_CC="$TOOLCHAIN/bin/$TARGET$API-clang"
+          export ANDROID_AS="$ANDROID_CC"
+          export ANDROID_CXX="$TOOLCHAIN/bin/$TARGET$API-clang++"
+          export ANDROID_LD="$TOOLCHAIN/bin/ld"
+          export ANDROID_RANLIB="$TOOLCHAIN/bin/llvm-ranlib"
+          export ANDROID_STRIP="$TOOLCHAIN/bin/llvm-strip"
+          export ANDROID_ABI="arm64-v8a"
+          export ABI="arm64-v8a"
+          export ANDROID_ARCH_NAME="arm64"
+          git clone https://github.com/bsggr78/tddroid.git
+          cd tddroid
+          git clone https://github.com/tdlib/td tdlib-src
+          cd tdlib-src
+          mkdir build
+          cd build
+          cmake -DCMAKE_BUILD_TYPE=Release ..
+          cmake --build . --target prepare_cross_compiling
+          cd ..
+          cd ..
+          cd build-folder
+          ./build-all.sh
