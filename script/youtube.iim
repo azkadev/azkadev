@@ -1,0 +1,16 @@
+SET !LOOP -9999
+TAB CLOSEALLOTHERS 
+'video-title 
+SET !ERRORIGNORE YES
+URL GOTO="https://www.youtube.com/results?search_query=video-title"
+WAIT SECONDS=5 
+TAG POS=1 TYPE=YT-FORMATTED-STRING ATTR=TXT:"video-title"
+WAIT SECONDS=60 
+CLEAR
+'video-title 
+SET !ERRORIGNORE YES
+URL GOTO="https://www.youtube.com/results?search_query=video-title"
+WAIT SECONDS=5
+TAG POS=1 TYPE=YT-FORMATTED-STRING ATTR=TXT:"video-title" 
+WAIT SECONDS=60 
+CLEAR
