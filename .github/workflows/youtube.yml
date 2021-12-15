@@ -18,4 +18,4 @@ jobs:
           custom_tags: "videoId/yt:videoId/"
           max_post_count: 6
           template: "$newline[![$title](https://freshidea.com/jonah/app/youtube-card/?id=$videoId)]($url \"$title\")"
-          committer_email: "insaneazka@gmail.com"
+          committer_email: "jonah@freshidea.com"
