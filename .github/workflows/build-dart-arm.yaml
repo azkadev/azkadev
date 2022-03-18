@@ -1,0 +1,77 @@
+name: Main
+# Controls when the action will run. 
+on: [workflow_dispatch]
+
+jobs:
+  build-dart-sdk:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Maximize build space
+      uses: easimon/maximize-build-space@v4
+      with:
+          root-reserve-mb: 512   
+          swap-size-mb: 1024
+          remove-dotnet: 'true'
+          remove-haskell: 'true'
+          remove-android: 'true'
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Echo Free space
+      run: |
+          echo "Free space:"
+          df -h
+    - name: Set up Python 2.x
+      uses: actions/setup-python@v2
+      with:
+        python-version: '2.x'
+    - name: Prepare
+      run: |
+        sudo apt-get update
+        sudo apt-get install g++-aarch64-linux-gnu g++-arm-linux-gnueabihf
+        sudo apt-get install g++-multilib
+        sudo apt-get install zip
+    - name: Get Resource
+      run: |
+        git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
+        export PATH="$PATH:$PWD/depot_tools"
+        mkdir dart-sdk
+        cd dart-sdk
+        fetch dart
+        cd sdk
+        git checkout master
+        ls
+        sed -i "s#/data/local/tmp#/data/data/com.termux/files/home/tmp#g" runtime/bin/directory_android.cc
+        sed -n '431,433p' runtime/bin/directory_android.cc
+        cd ../
+        echo "target_os = ['android','linux']" >> .gclient
+        gclient sync
+    - name: Build SDK
+      run: |
+        export PATH="$PATH:$PWD/depot_tools"
+        cd dart-sdk/sdk
+        ls tools/bots
+        ./tools/build.py --no-goma -m release --arch=arm64 --os=android create_sdk
+        ./tools/build.py --no-goma -m release --arch=arm --os=android create_sdk
+        ./tools/build.py --no-goma -m release --arch=arm64 create_sdk
+        ./tools/build.py --no-goma -m release --arch=arm create_sdk
+    - name: Zip SDK
+      run: |
+        cd dart-sdk/sdk/out
+        ls
+        zip -q -r dart-sdk-android-arm64.zip ReleaseAndroidARM64/dart-sdk
+        zip -q -r dart-sdk-android-arm.zip ReleaseAndroidARM/dart-sdk
+        zip -q -r dart-sdk-linux-arm64.zip ReleaseXARM64/dart-sdk
+        zip -q -r dart-sdk-linux-arm.zip ReleaseXARM/dart-sdk
+    - name: Get current date
+      id: date
+      run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+    - name: Test with environment variables
+      run: echo $TAG_NAME - $RELEASE_TIME
+      env:
+          TAG_NAME: Dart-SDK
+          RELEASE_TIME: ${{ steps.date.outputs.date }}
+      - name: Upload WSA
+        uses: actions/upload-artifact@v2
+        with:
+          name: App
+          path: "dart-sdk/sdk/out/*.zip"
