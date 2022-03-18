@@ -70,8 +70,8 @@ jobs:
       env:
           TAG_NAME: Dart-SDK
           RELEASE_TIME: ${{ steps.date.outputs.date }}
-      - name: Upload WSA
-        uses: actions/upload-artifact@v2
-        with:
-          name: App
-          path: "dart-sdk/sdk/out/*.zip"
+    - name: Upload WSA
+      uses: actions/upload-artifact@v2
+      with:
+        name: App
+        path: "dart-sdk/sdk/out/*.zip"
