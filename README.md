@@ -25,7 +25,7 @@
 
 I'm Gibran Alazka.
 
--   :hammer_and_pick: Javascript / Dart / C++
+-   :hammer_and_pick: Dart
 -   :pencil2: Ubuntu
 -   :seedling: Taking courses & doing assignments at THU
 -   :man: Pronouns: he/him
