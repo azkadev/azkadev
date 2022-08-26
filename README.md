@@ -55,7 +55,7 @@ I'm Gibran Alazka.
 
 I'm Gibran Alazka, a freshman at THU.
 
--   :hammer_and_pick: Javascript / Dart / C++
+-   :hammer_and_pick: Dart
 -   :pencil2: Ubuntu
 -   :seedling: Taking courses & doing assignments at THU
 -   :man: Pronouns: he/him
@@ -101,11 +101,6 @@ Here are some of my demo projects to convince you
 
   here is a demo and open source backend using node js, the demo is not full there is crud for fear of being misused, [repo](https://github.com/azkadev/free-api-dev)
 
-### RECENT DEV.TO POST
-<!-- BLOG-POST-LIST:START -->
-- [how to install flutter on google cloud shell service along with app build](https://dev.to/azkadev/how-to-install-flutter-on-google-cloud-shell-service-along-with-app-build-5eii)
-<!-- BLOG-POST-LIST:END -->
-
 ## Thropy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=azkadev)](https://github.com/ryo-ma/github-profile-trophy)
@@ -136,21 +131,3 @@ Support saya untuk mengembangkan project saya yang di github / menyemangatin say
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azkadev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azkadev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-# My App 
-<details>
-  <summary>Crypto Wallet</summary>
-  
-![](https://github.com/azkadev/azkadev/blob/main/flutter/crypto_wallet/crypto_wallet.png)
-
-</details>
-
-<details>
-  <summary>Nft Simple APP</summary>
-  
-![](https://github.com/azkadev/azkadev/blob/main/flutter/nft_simple_app/1.png)
-![](https://github.com/azkadev/azkadev/blob/main/flutter/nft_simple_app/2.png)
-
-</details>
-
-## 📺 Latest YouTube videos
