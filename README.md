@@ -45,7 +45,8 @@ I'm Gibran Alazka.
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HiveDb](https://img.shields.io/badge/HiveDb-CB3837?style=for-the-badge&logo=hive&logoColor=white)
+![No-Sql-Json](https://img.shields.io/badge/HiveDb-CB3837?style=for-the-badge&logo=json&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-CB3837?style=for-the-badge&logo=zig&logoColor=black) 
 </p>
 <br>
 
