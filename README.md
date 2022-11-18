@@ -87,7 +87,7 @@ I'm Gibran Alazka, a freshman at THU.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-Here are some of my demo projects to convince you
+<!-- Here are some of my demo projects to convince you
 
 - Application
 
@@ -100,7 +100,7 @@ Here are some of my demo projects to convince you
 
 - Backend
 
-  here is a demo and open source backend using node js, the demo is not full there is crud for fear of being misused, [repo](https://github.com/azkadev/free-api-dev)
+  here is a demo and open source backend using node js, the demo is not full there is crud for fear of being misused, [repo](https://github.com/azkadev/free-api-dev) -->
 
 ## Thropy
 
