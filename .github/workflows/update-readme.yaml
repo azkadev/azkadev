@@ -7,4 +7,4 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: UCipSxT7a3rn81vGLw9lqRkg
+          channel_id: UC928-F8HenjZD1zNdMY42vA
