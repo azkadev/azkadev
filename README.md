@@ -15,9 +15,16 @@
 </p>
 
 <!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/channel/UC928-F8HenjZD1zNdMY42vA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+<p align="center">   
+  <a href="https://youtube.com/@azkadev">
+    <img alt="youtube" title="Follow me on Youtube" src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
+    </a>
+  <a href="https://youtube.com/@azkadev">
+    <img alt="youtube" title="Follow me on Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)"/>
+    </a> 
+  <a href="https://youtube.com/@azkadev">
+    <img alt="youtube" title="Follow me on Web" src="https://img.shields.io/badge/Website-%23E4405F.svg?&style=for-the-badge&logo=firefox&logoColor=white"/>
+    </a>  
 </p>
 
 <p align="center">
@@ -73,11 +80,7 @@ I'm Gibran Alazka, a freshman at THU.
 
 
 ---
-
-<h3 align="center">
-  My Social Media
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+ 
 <!-- 
 ![Subscriber](https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCj9stNGVvQJspYMp8-lG_ng?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)
 ![](https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCj9stNGVvQJspYMp8-lG_ng?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600)
