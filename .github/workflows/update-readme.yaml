@@ -1,8 +1,8 @@
-name: GitHub Readme YouTube Cards
+name: Build youtube
 on: [workflow_dispatch]
-
 jobs:
-  deploy:
+  build:
+    name: Build Youtube
     runs-on: ubuntu-latest
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
