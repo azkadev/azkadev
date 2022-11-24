@@ -142,3 +142,18 @@ Support saya untuk mengembangkan project saya yang di github / menyemangatin say
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azkadev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azkadev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+<details> 
+  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+ 
+
+  <!-- prettier-ignore-start -->
+  <!-- BEGIN YOUTUBE-CARDS -->
+  
+<!-- END YOUTUBE-CARDS -->
+  <!-- prettier-ignore-end -->
+ 
+   
+  
+</details>
