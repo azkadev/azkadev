@@ -70,7 +70,7 @@ I'm Gibran Alazka.
 <img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkadev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="azkadev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=azkadev&theme=monokai-metallian&hide_border=true"/>
 <img width="50%"  src="https://github-profile-trophy.vercel.app/?username=azkadev"/>
 ---
-<img src="https://github.com/azkadev/azkadev/blob/main/github-metrics.svg" alt="Metrics" width="100%" height="100%">
+<img src="https://github.com/azkadev/azkadev/blob/main/github-metrics.svg" alt="Metrics" width="100%" height="50%">
 
 <details> 
   <summary><h2>📺 Latest YouTube Videos</h2></summary>
