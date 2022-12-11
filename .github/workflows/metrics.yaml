@@ -13,7 +13,7 @@ jobs:
           template: classic
           config_display: columns
           base: header, activity, community, repositories
-          commits_authoring: oSumAtrIX
+          commits_authoring: azkadev
           config_timezone: Asia/Jakarta
           plugin_achievements: yes
           plugin_achievements_display: detailed
