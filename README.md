@@ -165,3 +165,5 @@ Support saya untuk mengembangkan project saya yang di github / menyemangatin say
    
   
 </details>
+
+<img src="https://github.com/azkadev/azkadev/blob/main/github-metrics.svg" alt="Metrics" width="100%">
