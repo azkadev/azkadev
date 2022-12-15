@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ github.token }}
+          token: ${{ secrets.TOKEN }}
           # Options
           user: azkadev
           base: ""
