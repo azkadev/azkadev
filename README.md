@@ -74,8 +74,7 @@ I'm Gibran Alazka.
 
 
 [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/general.svg">](#)
-[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:azkadev?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/medias.svg?p">](#)
+[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:azkadev?theme=rule34">](https://www.youtube.com/@azkadev)
 [<img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/placeholder.svg">](#)
 
 [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/sponsors.svg">](https://github.com/sponsors/azkadev)
@@ -87,7 +86,6 @@ I'm Gibran Alazka.
 [<img align="right" width="390" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">](#)
 
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/placeholder.svg">](#)
-
 
 
 <details> 
