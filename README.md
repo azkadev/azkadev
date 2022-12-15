@@ -70,7 +70,8 @@ I'm Gibran Alazka.
 <img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkadev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="azkadev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=azkadev&theme=monokai-metallian&hide_border=true"/>
 <img width="50%"  src="https://github-profile-trophy.vercel.app/?username=azkadev"/>
 ---
-<img src="https://github.com/azkadev/azkadev/blob/main/github-metrics.svg" alt="Metrics" width="100%" height="50%">
+
+
 
 <details> 
   <summary><h2>📺 Latest YouTube Videos</h2></summary>
@@ -87,6 +88,21 @@ I'm Gibran Alazka.
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
  
-   
+
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/general.svg">](#)
+[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:azkadev?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/medias.svg?p">](#)
+[<img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/placeholder.svg">](#)
+
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/sponsors.svg">](https://github.com/sponsors/azkadev)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/achievements.svg">](#)
+
+[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/placeholder.svg">](#)
+
+[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/azkadev/metrics/examples/metrics.plugin.splatoon.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">](#)
+
+[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/placeholder.svg">](#)
+
   
 </details>
