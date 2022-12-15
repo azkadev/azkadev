@@ -29,7 +29,7 @@ jobs:
       #     # plugin_music_limit: 9
 
       - name: 🦑 Achievements 
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: achievements.svg
           token: ${{ secrets.TOKEN }}
@@ -42,7 +42,7 @@ jobs:
 
       - name: 🦑 Sponsors
         # if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: sponsors.svg
           token: ${{ secrets.TOKEN }}
@@ -54,7 +54,7 @@ jobs:
 
       - name: 🦑 General
         # if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: general.svg
           token: ${{ secrets.TOKEN }}
