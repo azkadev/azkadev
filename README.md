@@ -70,6 +70,9 @@ I'm Gibran Alazka.
 
 [<img align="left" width="390" alt="🦑" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkadev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook">](#)
 [<img align="right" width="390" alt="🦑" src="https://github-readme-streak-stats.herokuapp.com/?user=azkadev&theme=monokai-metallian&hide_border=true">](#)
+
+[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
+
 <!-- <img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkadev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="azkadev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=azkadev&theme=monokai-metallian&hide_border=true"/>
 <img width="50%"  src="https://github-profile-trophy.vercel.app/?username=azkadev"/> -->
 ---
