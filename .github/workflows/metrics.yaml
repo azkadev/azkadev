@@ -9,6 +9,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
+
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ github.token }}
+          # Options
+          user: azkadev
+          template: classic
+          config_display: columns
+          base: header, activity, community, repositories
+          filename: achievements.svg
+          commits_authoring: azkadev
+          config_timezone: Asia/Jakarta
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_fortune: yes
+
       # - name: 🦑 Medias
       #   if: ${{ success() || failure() }}
       #   uses: lowlighter/metrics@latest
@@ -28,20 +45,20 @@ jobs:
       #     # plugin_music_playlist: ${{ secrets.PLAYLIST }}
       #     # plugin_music_limit: 9
 
-      - name: 🦑 Achievements 
-        uses: lowlighter/metrics@master
-        with:
-          filename: achievements.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          # output_action: gist
-          # committer_gist: ${{ secrets.GIST }}
-          output_action: commit
-          committer_branch: metrics-renders
-          committer_message: "chore: update metrics"
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_fortune: yes
+      # - name: 🦑 Achievements 
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: achievements.svg
+      #     token: ${{ secrets.TOKEN }}
+      #     base: ""
+      #     # output_action: gist
+      #     # committer_gist: ${{ secrets.GIST }}
+      #     output_action: commit
+      #     committer_branch: metrics-renders
+      #     committer_message: "chore: update metrics"
+      #     plugin_achievements: yes
+      #     plugin_achievements_display: compact
+      #     plugin_fortune: yes
 
       # - name: 🦑 Sponsors
       #   # if: ${{ success() || failure() }}
