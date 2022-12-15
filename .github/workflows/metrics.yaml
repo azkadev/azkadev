@@ -16,9 +16,11 @@ jobs:
           token: ${{ github.token }}
           # Options
           user: azkadev
-          template: classic
-          config_display: columns
-          base: header, activity, community, repositories
+          base: ""
+          # template: classic
+          # config_display: columns
+          # base: header, activity, community, repositories
+          # base: ""
           filename: achievements.svg
           commits_authoring: azkadev
           config_timezone: Asia/Jakarta
