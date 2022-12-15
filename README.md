@@ -58,15 +58,16 @@ I'm Gibran Alazka.
 
 <p align='center'>
  My Tools and Skills <br/>
-  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![No-Sql-Json](https://img.shields.io/badge/Json-CB3837?style=for-the-badge&logo=json&logoColor=white)
-  ![Zig](https://img.shields.io/badge/Zig-CB3837?style=for-the-badge&logo=zig&logoColor=black) 
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![No-Sql-Json](https://img.shields.io/badge/Json-CB3837?style=for-the-badge&logo=json&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-CB3837?style=for-the-badge&logo=zig&logoColor=black) 
 </p>
 <br>
-<!-- 
-<img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkadev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="azkadev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=azkadev&theme=monokai-metallian&hide_border=true"/>
+
+<!-- <img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkadev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="azkadev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=azkadev&theme=monokai-metallian&hide_border=true"/>
 <img width="50%"  src="https://github-profile-trophy.vercel.app/?username=azkadev"/> -->
 ---
 
