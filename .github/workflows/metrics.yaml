@@ -28,8 +28,7 @@ jobs:
       #     # plugin_music_playlist: ${{ secrets.PLAYLIST }}
       #     # plugin_music_limit: 9
 
-      - name: 🦑 Achievements
-        if: ${{ success() || failure() }}
+      - name: 🦑 Achievements 
         uses: lowlighter/metrics@latest
         with:
           filename: achievements.svg
@@ -42,7 +41,7 @@ jobs:
           plugin_fortune: yes
 
       - name: 🦑 Sponsors
-        if: ${{ success() || failure() }}
+        # if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: sponsors.svg
@@ -54,7 +53,7 @@ jobs:
           plugin_sponsors_past: yes
 
       - name: 🦑 General
-        if: ${{ success() || failure() }}
+        # if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: general.svg
