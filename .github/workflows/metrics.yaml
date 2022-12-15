@@ -16,7 +16,7 @@ jobs:
           filename: medias.svg
           token: ${{ secrets.TOKEN }}
           base: ""
-          config_order: anilist, music
+          config_order: anilist
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_anilist: yes
