@@ -76,15 +76,12 @@ I'm Gibran Alazka.
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:azkadev?theme=rule34">](https://www.youtube.com/@azkadev)
 [<img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-[<img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/placeholder.svg">](#)
 
 [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/sponsors.svg">](https://github.com/sponsors/azkadev)
 [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/achievements.svg">](#)
 
  
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
-
-[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/placeholder.svg">](#)
 
 
 <details> 
