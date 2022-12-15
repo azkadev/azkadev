@@ -1,72 +1,78 @@
+# Licensed under The Unlicense
+# Feel free to reuse, edit and redistribute this workflow as you wish, no credits needed
+# See https://github.com/lowlighter/metrics for documentation about how to use metrics action
+
 name: Metrics
 on: [workflow_dispatch]
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+
+      - name: 🦑 Medias
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          token: ${{ github.token }}
-          # Options
-          user: azkadev
-          template: classic
-          config_display: columns
-          base: header, activity, community, repositories
-          commits_authoring: azkadev
-          config_timezone: Asia/Jakarta
+          filename: medias.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          config_order: anilist, music
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, characters
+          plugin_anilist_limit: 2
+          plugin_anilist_limit_characters: 22
+          # plugin_music: yes
+          # plugin_music_playlist: ${{ secrets.PLAYLIST }}
+          # plugin_music_limit: 9
+
+      - name: 🦑 Achievements
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
           plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_trim: yes
-          plugin_introduction: yes
-          plugin_introduction_title: yes
+          plugin_achievements_display: compact
+          plugin_fortune: yes
+
+      - name: 🦑 Sponsors
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: sponsors.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_sponsors: yes
+          plugin_sponsors_past: yes
+
+      - name: 🦑 General
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: general.svg
+          token: ${{ secrets.TOKEN }}
+          base: header
+          base_indepth: yes
+          config_order: base.header, isocalendar, languages, notable, discussions, topics
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_isocalendar: yes
           plugin_languages: yes
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 16
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          plugin_lines: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: https://osumatrix.me
-          plugin_people: yes
-          plugin_people_limit: 64
-          plugin_people_shuffle: yes
-          plugin_people_size: 28
-          plugin_people_types: followers, following
-          plugin_reactions: yes
-          plugin_reactions_display: absolute
-          plugin_reactions_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
-          plugin_reactions_limit: 200
-          plugin_reactions_limit_issues: 100
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_year: current-year
-          plugin_stargazers: yes
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 2
           plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: starred
-          plugin_topics_sort: stars
-          plugin_traffic: yes
-          repositories_forks: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+          plugin_notable: yes
+          plugin_discussions: yes
