@@ -1,40 +1,20 @@
-# Licensed under The Unlicense
-# Feel free to reuse, edit and redistribute this workflow as you wish, no credits needed
-# See https://github.com/lowlighter/metrics for documentation about how to use metrics action
 
-name: Metrics
+name: AutoMation
 on:
   # 🌏 Think about the planet! No need to update stats too frequently
-  schedule: [{cron: "0 16 * * *"}]
+  schedule: [{cron: "0 0 */1 * *"}]
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
 jobs:
   metrics:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
 
-      # - name: 🦑 Medias
-      #   if: ${{ success() || failure() }}
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: medias.svg
-      #     token: ${{ secrets.TOKEN }}
-      #     base: ""
-      #     config_order: anilist, music
-      #     output_action: gist
-      #     committer_gist: ${{ secrets.GIST }}
-      #     plugin_anilist: yes
-      #     plugin_anilist_medias: anime
-      #     plugin_anilist_sections: favorites, characters
-      #     plugin_anilist_limit: 2
-      #     plugin_anilist_limit_characters: 22
-      #     plugin_music: yes
-      #     plugin_music_playlist: ${{ secrets.PLAYLIST }}
-      #     plugin_music_limit: 9
-
+      # Readme Profile 
       - name: 🦑 Achievements
         # if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: achievements.svg
           token: ${{ secrets.TOKEN }}
@@ -48,6 +28,7 @@ jobs:
       - name: 🦑 Sponsors
         # if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: sponsors.svg
           token: ${{ secrets.TOKEN }}
@@ -60,6 +41,7 @@ jobs:
       - name: 🦑 General
         # if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: general.svg
           token: ${{ secrets.TOKEN }}
@@ -80,3 +62,9 @@ jobs:
           plugin_topics_mode: icons
           plugin_notable: yes
           plugin_discussions: yes
+
+      - name: Readme Profile Youtube
+        continue-on-error: true
+        uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UC928-F8HenjZD1zNdMY42vA
