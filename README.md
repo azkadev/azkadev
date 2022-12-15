@@ -89,9 +89,6 @@ I'm Gibran Alazka.
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
 ---
-
-<details> 
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
  
 
   <!-- prettier-ignore-start -->
@@ -104,6 +101,4 @@ I'm Gibran Alazka.
 [![Cara menjalankan Userbot Telegram Di Pc linux / Vps](https://ytcards.demolab.com/?id=Z7Dw0Gdzvcw&title=Cara+menjalankan+Userbot+Telegram+Di+Pc+linux+%2F+Vps&lang=en&timestamp=1667128227&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Cara menjalankan Userbot Telegram Di Pc linux / Vps")](https://www.youtube.com/watch?v=Z7Dw0Gdzvcw)
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
- 
   
-</details>
