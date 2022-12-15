@@ -9,24 +9,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: 🦑 Medias
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: medias.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          config_order: anilist
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          # plugin_music: yes
-          # plugin_music_playlist: ${{ secrets.PLAYLIST }}
-          # plugin_music_limit: 9
+      # - name: 🦑 Medias
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: medias.svg
+      #     token: ${{ secrets.TOKEN }}
+      #     base: ""
+      #     config_order: anilist
+      #     output_action: gist
+      #     committer_gist: ${{ secrets.GIST }}
+      #     plugin_anilist: yes
+      #     plugin_anilist_medias: anime
+      #     plugin_anilist_sections: favorites, characters
+      #     plugin_anilist_limit: 2
+      #     plugin_anilist_limit_characters: 22
+      #     # plugin_music: yes
+      #     # plugin_music_playlist: ${{ secrets.PLAYLIST }}
+      #     # plugin_music_limit: 9
 
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
