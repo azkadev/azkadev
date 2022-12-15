@@ -11,7 +11,11 @@
 
 <!-- Typing SVG by azkadev - https://github.com/azkadev/readme-typing-svg -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=510&height=80&lines=6+Bulan+coding+experience;FullStack+Mobile+and+Desktop+Developer+dart+dan+flutter;Selalu+belajar+hal+baru" alt="Typing SVG" /></a>
+<a href="https://github.com/azkadev">
+        <img src="https://telegra.ph/file/e90bdeab8390b8c0d9df2.png" alt="Specta"
+            width="312"
+            height="312">
+    </a>
 </p>
 
 <!-- Social icons section -->
