@@ -1,7 +1,6 @@
 #!/bin/sh
 
-sudo apt install openjdk-8-jre
-sudo apt install openjdk-8-jdk
+sudo apt install -y openjdk-8-jre openjdk-8-jdk
 
 mkdir "$HOME/Android" && mkdir "$HOME/Android/Sdk" && cd "$HOME/Android/Sdk"
 
