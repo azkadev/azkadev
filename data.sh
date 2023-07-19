@@ -24,8 +24,7 @@ sudo apt-get install -y --no-install-recommends \
     xz-utils \
     unzip \
     openjdk-11-jdk \
-    xvfb \ 
-    libwebp-dev \
+    xvfb \  
     ubuntu-restricted-extras \
     ffmpeg \
     libmpv-dev \
@@ -41,11 +40,6 @@ sudo apt-get install -y --no-install-recommends \
     libsonic-dev \
     ronn \
     kramdown \
-    libpcaudio-dev \ 
-    gstreamer1.0-plugins-bad \ 
-    libsdl2-dev \ 
-    libc++1 \
-    gir1.2-clutter-1.0 \ 
-    python-is-python3 \ 
-    linux-tools-common \
+    libpcaudio-dev \  
+    gir1.2-clutter-1.0 \  
     linux-tools-generic
