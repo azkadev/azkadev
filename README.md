@@ -57,7 +57,7 @@ I'm Gibran Alazka.
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/Msi-%23000000.svg?&style=for-the-badge&logo=msi&logoColor=white"/><img src="https://img.shields.io/badge/Linux%20Ubuntu-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/amd-ryzen--5500u-%230071C5.svg?&style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSD-1TB-%230071C5.svg?&style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logo=rm&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSD-1TB-%230071C5.svg?&style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logo=rm&logoColor=white" />
 </p>
 
 <p align='center'>
