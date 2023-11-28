@@ -90,9 +90,8 @@ I'm Gibran Alazka.
 [<img align="center" width="35%" alt="🦑" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkadev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook">](#)
 [<img align="right" width="30%" alt="🦑" src="https://github-readme-streak-stats.herokuapp.com/?user=azkadev&theme=monokai-metallian&hide_border=true">](#)
 
-[<img align="center" width="100%" alt="🦑" src="https://github-readme-activity-graph.cyclic.app/graph/?username=azkadev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">](#)
-
-[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
+[<img align="center" width="100%" alt="🦑" src="https://github-readme-activity-graph.vercel.app/graph/?username=azkadev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">](#)
+ 
 
 ---
  
