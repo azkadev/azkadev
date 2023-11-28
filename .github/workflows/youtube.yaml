@@ -1,6 +1,6 @@
 
 name: AutoMation
-on: []
+on: [workflow_dispatch]
 jobs:
   metrics:
     runs-on: ubuntu-20.04
