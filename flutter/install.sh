@@ -40,7 +40,7 @@ sudo apt-get install -y --no-install-recommends \
 mkdir -p /opt/android-sdk/cmdline-tools
 wget -q https://dl.google.com/android/repository/commandlinetools-linux-7583922_latest.zip -O /tmp/tools.zip
 unzip -q /tmp/tools.zip -d /opt/android-sdk/cmdline-tools
-mv -rf /opt/android-sdk/cmdline-tools/cmdline-tools /opt/android-sdk/cmdline-tools/latest
+sudo cp -rf /opt/android-sdk/cmdline-tools/cmdline-tools /opt/android-sdk/cmdline-tools/latest
 echo "export PATH=$PATH:/opt/android-sdk/cmdline-tools/latest/bin" >> ~/.bashrc
 
 echo "export ANDROID_SDK=/opt/android-sdk" >> ~/.bashrc
@@ -60,6 +60,7 @@ yes "y" | /opt/android-sdk/cmdline-tools/latest/bin/sdkmanager "platforms;androi
 yes "y" | /opt/android-sdk/cmdline-tools/latest/bin/sdkmanager "patcher;v4"
 yes "y" | /opt/android-sdk/cmdline-tools/latest/bin/sdkmanager "build-tools;30.0.2"
 yes "y" | /opt/android-sdk/cmdline-tools/latest/bin/sdkmanager --licenses
+rm -f flutter.tar.xz
 curl -L https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.16.2-stable.tar.xz -o flutter.tar.xz && \
     tar xf flutter.tar.xz -C /usr/local && \
     rm -f flutter.tar.xz
