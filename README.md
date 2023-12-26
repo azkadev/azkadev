@@ -1,11 +1,11 @@
-<h3 align="center">AZKADEV || GIBRAN ALAZKA</h3>
+<h3 align="center">azkadev || AZKA</h3>
 
 ![](https://user-images.githubusercontent.com/38845275/128774296-40a55843-1893-44e6-936e-5e71c7cf72de.png)
 
 ---
 
 <h3 align="center">
-  Welcome to Azkadev's profile!
+  Welcome to azkadev's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -38,8 +38,8 @@
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC928-F8HenjZD1zNdMY42vA?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/azkadev?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/azkadev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Azkadev?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Azkadev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/azkadev?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/azkadev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 [<img align="right" width="50%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=azkadev">](https://metrics.lecoq.io/ouuan?template=classic)
@@ -77,6 +77,9 @@ I'm Gibran Alazka.
 </p>
 
 
+- DATE: 2023-12-27 03:55:55.568876
+
+
 [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/general.svg">](#)
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:azkadev?theme=rule34">](https://www.youtube.com/@azkadev)
 [<img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
@@ -107,4 +110,3 @@ I'm Gibran Alazka.
 [![Cara Bikin APPLIKASI FLUTTER DENGAN INSTAN ! PAKAI TEMPLATE General Cli one click ! | AZKADEV TUTOR](https://ytcards.demolab.com/?id=Dgi6eS2yfI8&title=Cara+Bikin+APPLIKASI+FLUTTER+DENGAN+INSTAN+%21+PAKAI+TEMPLATE+General+Cli+one+click+%21+%7C+AZKADEV+TUTOR&lang=en&timestamp=1696047784&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cara Bikin APPLIKASI FLUTTER DENGAN INSTAN ! PAKAI TEMPLATE General Cli one click ! | AZKADEV TUTOR")](https://www.youtube.com/watch?v=Dgi6eS2yfI8)
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
-  
