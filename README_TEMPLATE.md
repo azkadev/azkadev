@@ -77,6 +77,9 @@ I'm Gibran Alazka.
 </p>
 
 
+- DATE: {{date}}
+
+
 [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/{{username}}/da830a12192544969ed71c5ce133f00a/raw/general.svg">](#)
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:{{username}}?theme=rule34">](https://www.youtube.com/@{{username}})
 [<img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
