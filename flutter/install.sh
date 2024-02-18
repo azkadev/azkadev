@@ -61,7 +61,7 @@ yes "y" | /opt/android-sdk/cmdline-tools/latest/bin/sdkmanager "patcher;v4"
 yes "y" | /opt/android-sdk/cmdline-tools/latest/bin/sdkmanager "build-tools;30.0.2"
 yes "y" | /opt/android-sdk/cmdline-tools/latest/bin/sdkmanager --licenses
 rm -f flutter.tar.xz
-curl -L https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.16.2-stable.tar.xz -o flutter.tar.xz && \
+curl -L https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.16.8-stable.tar.xz -o flutter.tar.xz && \
     tar xf flutter.tar.xz -C /usr/local && \
     rm -f flutter.tar.xz
 
