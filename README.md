@@ -44,8 +44,6 @@
 
 [<img align="right" width="50%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=azkadev">](https://metrics.lecoq.io/ouuan?template=classic)
 
-I'm Gibran Alazka.
-
 -   :hammer_and_pick: Dart
 -   :pencil2: Ubuntu
 -   :seedling: Taking courses & doing assignments at THU
