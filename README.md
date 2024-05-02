@@ -42,6 +42,23 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/azkadev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+Hi, let me introduce myself, **Azkadev**, I am a programmer who really likes creating libraries to make things easier for other people. I make all library programs that can be scaled to a business scale. Apart from that, the libraries I make have basic templates, making it easier for you to use them.
+
+Currently I still use Dart / Flutter as my main coding language, most likely later I will create my own coding language.
+
+Some leaks of the code language that I will make later
+
+1. Using a Dart-like Style Code
+2. Cross Platform Support
+3. Can be compiled into binaries / shared libraries
+4. very fast and efficient
+
+If you are interested in some of the features I mentioned above, come on quickly support me, I need funds to work on that project, if the low level language project I mentioned earlier is successful
+
+This allows me, you, other people to create programs **easily and efficiently**
+
+**Come on, support me with my sponsors:** [Github Sponsor](https://github.com/sponsors/azkadev)
+
 [<img align="right" width="50%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=azkadev">](https://metrics.lecoq.io/ouuan?template=classic)
 
 AZKA DEVELOPER
