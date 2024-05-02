@@ -44,10 +44,12 @@
 
 [<img align="right" width="50%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=azkadev">](https://metrics.lecoq.io/ouuan?template=classic)
 
--   :hammer_and_pick: Dart
--   :pencil2: Ubuntu
--   :seedling: Taking courses & doing assignments at THU
--   :man: Pronouns: he/him
+AZKA DEVELOPER
+
+-   ⚒️ Dart
+-   ✏️ Ubuntu
+-   🌱️ Taking courses & doing assignments at THU
+-   👨️ Pronouns: he/him
 
 ---
 
