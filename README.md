@@ -98,6 +98,20 @@ I'm Gibran Alazka.
 
 ---
  
+## 📚️ Project
+
+| Name                                                          | Language        | Type        | Short Description                                                                                                                          |
+|---------------------------------------------------------------|-----------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| [Simulate](https://github.com/azkadev/simulate)               | DART  / FLUTTER | LIBRARY     | Help you emulate device phone on computer without run heavy emulator                                                                       |
+| [Telegram Client](https://github.com/azkadev/telegram_client) | DART / FLUTTER  | LIBRARY     | Help you to interact with telegram api (TDLIB / TELEGRAM BOT API / MTPROTO) for speed up your program bot / userbot / application telegram |
+| [Server Universe](https://github.com/azkadev/server_universe) | DART / FLUTTER  | LIBRARY     | Help You make server rest api on every platform (Support severless function edge supabase, vercel, netlify, etc)                           |
+| [Packagex](https://github.com/azkadev/packagex)               | DART / FLUTTER  | LIBRARY     | Help you  packaging program with single command and publish on github                                                                      |
+| [Whatsapp Client](https://github.com/azkadev/whatsapp)        | DART / FLUTTER  | LIBRARY     | Help you to make bot / userbot / app with unofficial api                                                                                   |
+| [General](https://github.com/azkadev/general)                 | DART / FLUTTER  | LIBRARY     | help you make app with acces camera, notification, background, sms, dial, contact and more with easy                                       |
+| [Piper](https://github.com/azkadev/piper)                     | DART / FLUTTER  | LIBRARY     | Help you generate text to speech                                                                                                           |
+| [Whisper](https://github.com/azkadev/whisper)                 | DART / FLUTTER  | LIBRARY     | Help you generate text from audio                                                                                                          |
+| [Telegram X](https://github.com/azkadev/telegram_x)           | DART / FLUTTER  | APPLICATION | Telegram x ported with change style code                                                                                                   |
+
 ## 📺 Latest YouTube Videos
 
   <!-- prettier-ignore-start -->
@@ -271,19 +285,36 @@ With a committed team of experts, advanced technology, and a holistic approach t
     - **Terminate**
     - **Upgrade**
 
-## Cara Beli Jasa / Products 
+## How To Buy Services Or Products | Cara Beli Jasa Atau Products
 
-- **Lewat Telegram Bot**
-  Jika kamu ingin membeli bisa lewat telegram automatis pembayaran hingga proses
-  (jika proses lama itu bukan **SCAM !!** kemungkinan **server down** jadi proses bisa lebih lama jika ragu tap menu report lalu isi keluhan)
-  -  Buka Bot: https://t.me/GLOBAL_CORP_ORG_BOT
-  -  Isi data pribadi / subscribe channel
-  -  Tap Main menu pilih services / products
-  -  Pilih Product / Services
-  -  Pastikan coin mencukupi
-  -  Isi data yang di butuhkan
+- **Via Telegram Bot**
 
-- **Lewat Telegram USER**
+  - **Englisth**
+     
+     If you want to buy, you can use Telegram to automatically process the payment
+     (if the long process is not a **SCAM!!** it's possible that the **server is down** so the process could take longer. If in doubt, tap the report menu then fill in a complaint)
+
+     - Open Bot: https://t.me/GLOBAL_CORP_ORG_BOT
+     - Fill in personal data / subscribe to the channel
+     - Tap Main menu select services / products
+     - Select Products / Services
+     - Make sure there are enough coins
+     - Fill in the required data
+
+
+  - **Indonesia**
+
+     Jika kamu ingin membeli bisa lewat telegram automatis pembayaran hingga proses
+     (jika proses lama itu bukan **SCAM !!** kemungkinan **server down** jadi proses bisa lebih lama jika ragu tap menu report lalu isi keluhan)
+     -  Buka Bot: https://t.me/GLOBAL_CORP_ORG_BOT
+     -  Isi data pribadi / subscribe channel
+     -  Tap Main menu pilih services / products
+     -  Pilih Product / Services
+     -  Pastikan coin mencukupi
+     -  Isi data yang di butuhkan
+
+- **Via Telegram USER**
+  
   -  Buka: https://t.me/general_user
   -  Ucapin apapun yang kamu butuh jasa dev / apapun
 
@@ -292,7 +323,14 @@ Video Tutorial
 [![Watch the video](https://img.youtube.com/vi/TY0Y21C6asM/maxresdefault.jpg)](https://www.youtube.com/watch?v=TY0Y21C6asM)
 
 - **Lewat App**
-  jika kamu ingin melihat product / jasa dengan full demo kamu bisa beli lewat app
+
+  - **English** 
+
+    If you want to see a product/service with a full demo, you can buy it via the app
+
+  - **Indonesia**
+
+    jika kamu ingin melihat product / jasa dengan full demo kamu bisa beli lewat app
 
 ## 📺 Latest YouTube Videos
 
