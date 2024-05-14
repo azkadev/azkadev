@@ -145,6 +145,10 @@ AZKA DEVELOPER
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
 
+<p align="center"> 
+    <img src="https://raw.githubusercontent.com/azkadev/github_sponsor/main/.github/sponsor.png" >
+</p>
+ 
 <!-- START GLOBAL CORPORATION -->
 <h3 align="center">
   Global Corporation
