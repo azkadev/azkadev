@@ -10,7 +10,7 @@ export PATH="$ANDROID_HOME/cmdline-tools/latest/:$PATH"
 export PATH="$ANDROID_HOME/emulator/:$PATH"
 export PATH="$ANDROID_HOME/platform-tools/:$PATH"
 export PATH="$ANDROID_SDK:$PATH"
-export PATH="$PATH:/usr/local/flutter/bin"
+export PATH="\$PATH:/usr/local/flutter/bin"
 
 sudo apt-get update
 
@@ -41,7 +41,7 @@ mkdir -p /opt/android-sdk/cmdline-tools
 wget -q https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip -O /tmp/tools.zip
 unzip -q /tmp/tools.zip -d /opt/android-sdk/cmdline-tools
 sudo cp -rf /opt/android-sdk/cmdline-tools/cmdline-tools /opt/android-sdk/cmdline-tools/latest
-echo "export PATH=$PATH:/opt/android-sdk/cmdline-tools/latest/bin" >> ~/.bashrc
+echo "export PATH=\$PATH:/opt/android-sdk/cmdline-tools/latest/bin" >> ~/.bashrc
 
 echo "export ANDROID_SDK=/opt/android-sdk" >> ~/.bashrc
 echo "export ANDROID_SDK_ROOT=/opt/android-sdk" >> ~/.bashrc
@@ -51,7 +51,7 @@ echo "export PATH=$ANDROID_HOME/cmdline-tools/latest/:$PATH" >> ~/.bashrc
 echo "export PATH=$ANDROID_HOME/emulator/:$PATH" >> ~/.bashrc
 echo "export PATH=$ANDROID_HOME/platform-tools/:$PATH" >> ~/.bashrc
 echo "export PATH=$ANDROID_SDK:$PATH" >> ~/.bashrc
-echo "export PATH=$PATH:/usr/local/flutter/bin" >> ~/.bashrc
+echo "export PATH=\$PATH:/usr/local/flutter/bin" >> ~/.bashrc
 
 yes "y" | /opt/android-sdk/cmdline-tools/latest/bin/sdkmanager
 yes "y" | /opt/android-sdk/cmdline-tools/latest/bin/sdkmanager --update
