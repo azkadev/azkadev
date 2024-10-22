@@ -35,10 +35,10 @@ sudo apt-get install -y --no-install-recommends \
     xz-utils \
     unzip \
     xvfb \
-    openjdk-11-jdk 
+    openjdk-17-jdk
 
 mkdir -p /opt/android-sdk/cmdline-tools
-wget -q https://dl.google.com/android/repository/commandlinetools-linux-7583922_latest.zip -O /tmp/tools.zip
+wget -q https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip -O /tmp/tools.zip
 unzip -q /tmp/tools.zip -d /opt/android-sdk/cmdline-tools
 sudo cp -rf /opt/android-sdk/cmdline-tools/cmdline-tools /opt/android-sdk/cmdline-tools/latest
 echo "export PATH=$PATH:/opt/android-sdk/cmdline-tools/latest/bin" >> ~/.bashrc
