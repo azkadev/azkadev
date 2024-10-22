@@ -46,11 +46,11 @@ echo "export PATH=\$PATH:/opt/android-sdk/cmdline-tools/latest/bin" >> ~/.bashrc
 echo "export ANDROID_SDK=/opt/android-sdk" >> ~/.bashrc
 echo "export ANDROID_SDK_ROOT=/opt/android-sdk" >> ~/.bashrc
 echo "export ANDROID_HOME=/opt/android-sdk" >> ~/.bashrc
-echo "export PATH=$ANDROID_HOME/cmdline-tools/latest/bin/:$PATH" >> ~/.bashrc
-echo "export PATH=$ANDROID_HOME/cmdline-tools/latest/:$PATH" >> ~/.bashrc
-echo "export PATH=$ANDROID_HOME/emulator/:$PATH" >> ~/.bashrc
-echo "export PATH=$ANDROID_HOME/platform-tools/:$PATH" >> ~/.bashrc
-echo "export PATH=$ANDROID_SDK:$PATH" >> ~/.bashrc
+echo "export PATH=\$ANDROID_HOME/cmdline-tools/latest/bin/:\$PATH" >> ~/.bashrc
+echo "export PATH=\$ANDROID_HOME/cmdline-tools/latest/:\$PATH" >> ~/.bashrc
+echo "export PATH=\$ANDROID_HOME/emulator/:\$PATH" >> ~/.bashrc
+echo "export PATH=\$ANDROID_HOME/platform-tools/:\$PATH" >> ~/.bashrc
+echo "export PATH=\$ANDROID_SDK:\$PATH" >> ~/.bashrc
 echo "export PATH=\$PATH:/usr/local/flutter/bin" >> ~/.bashrc
 
 yes "y" | /opt/android-sdk/cmdline-tools/latest/bin/sdkmanager
