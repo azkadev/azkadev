@@ -12,6 +12,7 @@
     pkgs.ninja
     pkgs.pkg-config
     pkgs.clang
+    pkgs.docker
   ];
   # Sets environment variables in the workspace
   env = {};
