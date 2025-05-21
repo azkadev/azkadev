@@ -8,8 +8,8 @@ hanya publik profile dan ya mungkin akan open tapi tidak akan sesering dan tidak
 
 Jangan lupa follow social media saya
 
-Youtube: https://www.youtube.com/@AZKAAXELIONGIBRAN
-Facebook: https://web.facebook.com/profile.php?id=61576801191949
-X: https://x.com/AZKADEV_
+- Youtube: https://www.youtube.com/@AZKAAXELIONGIBRAN
+- Facebook: https://web.facebook.com/profile.php?id=61576801191949
+- X: https://x.com/AZKADEV_
 
 di akun itu saya akan lebih sering update informasi tentang apa yang sedang saya lakukan / kerjakan.
