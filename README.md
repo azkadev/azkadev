@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**azkadev/azkadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya AZKA AXELION GIBRAN atau bisa di panggil AzkaDev saya adalah seorang developer dan saat ini saya sudah berada di tingkat insinyur.
 
-Here are some ideas to get you started:
+Disini saya tidka lagi membuat open source library / app,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+hanya publik profile dan ya mungkin akan open tapi tidak akan sesering dan tidak akan sebagus dahulu.
+
+Jangan lupa follow social media saya
+
+Youtube: https://www.youtube.com/@AZKAAXELIONGIBRAN
+Facebook: https://web.facebook.com/profile.php?id=61576801191949
+X: https://x.com/AZKADEV_
+
+di akun itu saya akan lebih sering update informasi tentang apa yang sedang saya lakukan / kerjakan.
