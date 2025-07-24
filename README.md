@@ -18,7 +18,7 @@ saya seorang developer saya sering membuat berbagai project, dan jika tidak menc
 
 ---
 
-**ini adalah beberapa project open source yang saya kembangkan**
+## **ini adalah beberapa project open source yang saya kembangkan**
 
 - Telegram Client
   sebuah library dart untuk memakai api telegram terutama menggunakan tdlib ini bisa berjalan di flutter
@@ -35,7 +35,7 @@ saya seorang developer saya sering membuat berbagai project, dan jika tidak menc
 
   link repo: https://github.com/azkadev/swap_controller
 
-**ini adalah beberapa project bisnis saya, tidak ada source code, dan ada yang gratis / ada yang wajib berbayar**
+## **ini adalah beberapa project bisnis saya, tidak ada source code, dan ada yang gratis / ada yang wajib berbayar**
 
 - General Studio Developer
   sebuah applikasi cross platform memungkinkan kamu untuk melakukan berbagai kegiatan terutama coding, ini bisa berjalan pada cross platform
