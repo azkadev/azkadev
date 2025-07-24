@@ -30,6 +30,10 @@ saya seorang developer saya sering membuat berbagai project, dan jika tidak menc
 
   link repo: https://github.com/azkadev/tdlib_gram
 
+- Swap Controller 
+  sebuah open source applikasi yang memungkinkan kamu simulasi / fake menjadikan gamepad kamu menjadi gamepad lain, hal ini berguna ketika kamu malas pakai kabel / memang tidak ada uang untuk membeli gamepad khusus
+
+  link repo: https://github.com/azkadev/swap_controller
 
 **ini adalah beberapa project bisnis saya, tidak ada source code, dan ada yang gratis / ada yang wajib berbayar**
 
@@ -37,3 +41,10 @@ saya seorang developer saya sering membuat berbagai project, dan jika tidak menc
   sebuah applikasi cross platform memungkinkan kamu untuk melakukan berbagai kegiatan terutama coding, ini bisa berjalan pada cross platform
 
   link repo: https://github.com/azkadev/showcase_general_studio_developer
+
+- Azkadev Gram
+  sebuah applikasi telegram pihak 3 yang dengan design baru
+
+  link repo:
+
+
