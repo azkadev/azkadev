@@ -47,4 +47,26 @@ saya seorang developer saya sering membuat berbagai project, dan jika tidak menc
 
   - link repo:
 
+## Support Me
 
+Jika kamu merasa program ini berguna, kamu bisa support saya [GITHUB AZKADEV](https://github.com/azkadev) di link itu tersedia social media dan sponsor saya. saya tidak keberatan jika kamu hanya follow / donasi uang sedikit
+
+![](https://github.com/azkadev/azkadev/blob/main/assets/gopay.png)
+
+- https://www.patreon.com/c/azkadev
+- https://opencollective.com/azkadev
+- https://paypal.me/azkaaxeliongibran
+- https://paypal.me/azkadev
+
+Terimakasih
+
+
+Azkadev - 25-07-2025
+
+
+## Tags
+
+- Azkadev
+- Azkadev github
+- Azka Axelion
+- Azka Axelion Gibran
