@@ -4,6 +4,20 @@ Selamat datang di profile github saya AZKADEV | Azka Axelion Gibran
 
 saya seorang developer saya sering membuat berbagai project, dan jika tidak mencapai target aku akan menghapusnya
 
+- 🇮🇩 [Indonesia](https://github.com/azkadev/azkadev/blob/main/README.md)
+- 🇨🇿 [Afrika](https://github.com/azkadev/azkadev/blob/main/README_AFRIKA.md)
+- 🇨🇳 [China](https://github.com/azkadev/azkadev/blob/main/README_CHINA.md)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [English](https://github.com/azkadev/azkadev/blob/main/README_ENGLISH.md)
+- 🇮🇳 [India](https://github.com/azkadev/azkadev/blob/main/README_INDIA.md)
+- 🇮🇩 [Jawa](https://github.com/azkadev/azkadev/blob/main/README_JAWA.md)
+- 🇯🇵 [Jepang](https://github.com/azkadev/azkadev/blob/main/README_JEPANG.md)
+- 🇰🇷 [Korea](https://github.com/azkadev/azkadev/blob/main/README_KOREA.md)
+- 🇷🇺 [Russia](https://github.com/azkadev/azkadev/blob/main/README_RUSSIA.md)
+- 🇮🇩 [Sunda](https://github.com/azkadev/azkadev/blob/main/README_SUNDA.md)
+- 🇹🇭 [Thailand](https://github.com/azkadev/azkadev/blob/main/README_THAILAND.md)
+
+---
+
 **ini adalah beberapa project open source yang saya kembangkan**
 
 - Telegram Client
