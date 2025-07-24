@@ -20,31 +20,31 @@ saya seorang developer saya sering membuat berbagai project, dan jika tidak menc
 
 ## **ini adalah beberapa project open source yang saya kembangkan**
 
-- Telegram Client
+### Telegram Client
   sebuah library dart untuk memakai api telegram terutama menggunakan tdlib ini bisa berjalan di flutter
 
-  link repo: https://github.com/azkadev/telegram_client
+  - link repo: https://github.com/azkadev/telegram_client
 
-- Tdlib Gram
+### Tdlib Gram
   sebuah open source applikasi sederhana membuktikan jika saya bisa membuat dan tanpa dependency pihak 3, ini adalah applikasi pihak 3 telegram
 
-  link repo: https://github.com/azkadev/tdlib_gram
+  - link repo: https://github.com/azkadev/tdlib_gram
 
-- Swap Controller 
+### Swap Controller 
   sebuah open source applikasi yang memungkinkan kamu simulasi / fake menjadikan gamepad kamu menjadi gamepad lain, hal ini berguna ketika kamu malas pakai kabel / memang tidak ada uang untuk membeli gamepad khusus
 
-  link repo: https://github.com/azkadev/swap_controller
+  - link repo: https://github.com/azkadev/swap_controller
 
 ## **ini adalah beberapa project bisnis saya, tidak ada source code, dan ada yang gratis / ada yang wajib berbayar**
 
-- General Studio Developer
+### General Studio Developer
   sebuah applikasi cross platform memungkinkan kamu untuk melakukan berbagai kegiatan terutama coding, ini bisa berjalan pada cross platform
 
-  link repo: https://github.com/azkadev/showcase_general_studio_developer
+  - link repo: https://github.com/azkadev/showcase_general_studio_developer
 
-- Azkadev Gram
+### Azkadev Gram
   sebuah applikasi telegram pihak 3 yang dengan design baru
 
-  link repo:
+  - link repo:
 
 
